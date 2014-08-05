@@ -1,0 +1,52 @@
+
+
+#mobile-app-alert {
+	display: none;
+	background: #FFF;
+	padding: 5px 10px;	
+}
+
+#mobile-app-alert:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+
+#mobile-app-alert .dashicons-no-alt {
+	float: left;
+}
+
+#mobile-app-alert img.app-logo {
+	float: left;
+	margin-right: 5px;
+}
+
+
+#mobile-app-alert a.view-link {
+	float: right;
+	color: #0075ff;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+#mobile-app-alert div.dashicons-row {
+	line-height: 10px;
+	height: 10px;
+}
+
+#mobile-app-alert div.dashicons-row div.dashicons {
+	font-size: 10px;
+	color: #ff9105;
+	width: 10px;
+	line-height: 12px;
+	height: 10px;
+}
+
+#mobile-app-alert div.small-text {
+	font-family: arial;
+	font-size: 12px;
+	color: #2d2d2c;
+}
