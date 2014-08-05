@@ -8,7 +8,7 @@ Author: Bradford Knowlton
 Author URI: http://bradknowlton.com/
 License: GPLv2
 GitHub Plugin URI: https://github.com/Danmer-Custom-Shutter/DCS-Mobile-App-Banner
-GitHub Branch:     dev
+GitHub Branch:     master
 */
 
 function dcs_mobile_appl_banner_enqueue_scripts() { // Our own unique function
