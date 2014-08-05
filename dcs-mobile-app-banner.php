@@ -3,7 +3,7 @@
 Plugin Name: DCS Mobile App Banner
 Plugin URI: http://m.danmer.com/
 Description: Promoting Mobile App on Mobile Devices
-Version: 1.1.10
+Version: 1.1.11
 Author: Bradford Knowlton
 Author URI: http://bradknowlton.com/
 License: GPLv2
@@ -11,7 +11,7 @@ GitHub Plugin URI: https://github.com/Danmer-Custom-Shutter/DCS-Mobile-App-Banne
 GitHub Branch:     master
 */
 
-$version = "1.1.10";
+$version = "1.1.11";
 
 function dcs_mobile_appl_banner_enqueue_scripts() { // Our own unique function
 	global $version;
