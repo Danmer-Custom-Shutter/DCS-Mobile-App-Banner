@@ -3,7 +3,7 @@
 Plugin Name: DCS Mobile App Banner
 Plugin URI: http://m.danmer.com/
 Description: Promoting Mobile App on Mobile Devices
-Version: 1.1.5
+Version: 1.1.8
 Author: Bradford Knowlton
 Author URI: http://bradknowlton.com/
 License: GPLv2

@@ -14,4 +14,8 @@ jQuery(document).ready(function($) {
 		$('#mobile-app-alert').slideDown('slow');
 		
 	}
+	
+	$('#mobile-app-alert .dashicons-no-alt').on('click', function(){
+		$('#mobile-app-alert').slideUp('slow');
+	});
 });

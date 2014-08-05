@@ -3,7 +3,7 @@
 #mobile-app-alert {
 	display: none;
 	background: #FFF;
-	padding: 5px 10px;	
+	padding: 5px 10px 5px 0;
 }
 
 #mobile-app-alert:after {
@@ -17,6 +17,10 @@
 
 #mobile-app-alert .dashicons-no-alt {
 	float: left;
+	line-height: 64px;
+	height: 64px;
+	width: 30px;
+	font-size: 24px;
 }
 
 #mobile-app-alert img.app-logo {
