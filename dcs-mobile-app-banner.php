@@ -11,7 +11,7 @@ GitHub Plugin URI: https://github.com/Danmer-Custom-Shutter/DCS-Mobile-App-Banne
 GitHub Branch:     master
 */
 
-$version = "1.1.12";
+$version = "1.1.13";
 
 function dcs_mobile_appl_banner_enqueue_scripts() { // Our own unique function
 	global $version;
