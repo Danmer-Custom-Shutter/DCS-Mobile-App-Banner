@@ -50,6 +50,12 @@
 	height: 10px;
 }
 
+#mobile-app-alert div.large-text {
+	font-family: arial;
+	font-size: 14px;
+	color: #000;
+}
+
 #mobile-app-alert div.small-text {
 	font-family: arial;
 	font-size: 12px;
